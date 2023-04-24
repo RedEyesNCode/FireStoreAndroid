@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">firestoreandroid</string>
+    <string name="firebase_firestore_database">FIREBASE_FIRESTORE_DATABASE</string>
+</resources>
